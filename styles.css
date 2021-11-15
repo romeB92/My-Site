@@ -18,7 +18,19 @@ h2{
 h3{
   font-family: 'Roboto', sans-serif;
 }
+.contact{
+  position:absolute;
+  right: 300px;
+  bottom: 10px;
+  font-size: large;
 
+}
+.home{
+position: absolute;
+  left: 300px;
+  bottom: 10px;
+  font-size: large;
+}
 .top-container{
   background-color: #E4F9F5;
   position: relative;
